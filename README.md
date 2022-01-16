@@ -1,5 +1,1 @@
-<object data="Rapport SR.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Rapport SR.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Rapport SR.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Développement d'un prototype illustrant le fonctionnement de TousAntiCovid, reposant sur une architecture centralisée. Respect de l'anonymat et utilisation de pseudonymes. Tout le contenu est chiffré et ne peut-être déchiffrer par autre personne que le serveur centrale.
